@@ -1,0 +1,18 @@
+# python generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# utils
+._.DS_Store
+.DS_Store
+~$*
+nohup.out
+.venv/
+
+# data / model
+data/
+models/
