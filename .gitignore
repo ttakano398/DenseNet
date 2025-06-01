@@ -12,6 +12,7 @@ wheels/
 ~$*
 nohup.out
 .venv/
+.ipynb_checkpoints/
 
 # data / model
 data/
