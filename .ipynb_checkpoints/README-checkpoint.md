@@ -1,4 +1,4 @@
-DenseNet実装してみた
+DenseNet-121実装してみた
 - `.ipynb`がベース
 
 Ref: 

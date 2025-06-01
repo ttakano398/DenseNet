@@ -16,3 +16,4 @@ nohup.out
 # data / model
 data/
 models/
+prev_models/
